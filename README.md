@@ -89,4 +89,4 @@ The app is deployed on Azure App Services, accessible via the default domain pro
 * [Docker](https://www.docker.com/)
 
 ## Demo Vedio
-Video Demo: [Link to YouTube demo Video]()
+Video Demo: [Link to YouTube demo Video](https://youtu.be/_2g-DFCoQtA)
