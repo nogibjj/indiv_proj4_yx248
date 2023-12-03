@@ -30,11 +30,10 @@ To run this application locally, you will need Docker installed on your machine.
 
 ### DockerHub Login and Push
 To push the built image to DockerHub, use the following commands:
-    ```bash
+
     docker login --username=yourusername
     docker build -t yourusername/reponame .
     docker push yourusername/reponame
-    ```
 
 You should have a DockerHub account.
 
