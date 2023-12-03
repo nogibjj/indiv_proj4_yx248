@@ -77,7 +77,7 @@ About Page:
 ### Deployed Information on Azure App Services
 The app is deployed on Azure App Services, accessible via the default domain provided by Azure. Here are the details for the deployed app:
 
-* Default domain: [my-simple-flask-web-app.azurewebsites.net](my-simple-flask-web-app.azurewebsites.net)
+* Default domain: [`my-simple-flask-web-app.azurewebsites.net`](https://my-simple-flask-web-app.azurewebsites.net)
 * App Service Plan: `ASP-MySimpleFlaskWebAppgroup-85ce (P1v3: 1)`
 * Operating System: Linux
 * Health Check: Not Configured
